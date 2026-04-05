@@ -29,7 +29,7 @@ Result:
 - SSH (22)
 - HTTP (80)
 
-![Nmap](images/nmap.png)
+![Nmap]([images/nmap.png](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/a8531eabae657eb7da0f8f293d5ede320bb8c3e0/bluemoon%201-1.png)
 
 ---
 
