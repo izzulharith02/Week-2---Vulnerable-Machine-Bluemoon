@@ -84,7 +84,7 @@ robin : k4rv3ndh4nh4ck3r
 
 ssh robin@192.168.56.102
 
-![SSH](images/ssh.png)
+![SSH](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/2a27a26437bb1be8c232c731e6ba4698f43aeccf/bluemoon%207.png)
 
 ---
 
