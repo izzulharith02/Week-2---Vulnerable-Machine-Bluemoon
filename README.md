@@ -42,7 +42,7 @@ http://192.168.56.102
 Hidden directory:
  /hidden_text
 
-![Hidden](images/hidden.png)
+![Hidden](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/8060cc2e6f19ac7679b6802eeaa58837b3e6f726/bluemoon%20maintenance.png)
 
 QR Code:
 ![QR](images/qr.png)
