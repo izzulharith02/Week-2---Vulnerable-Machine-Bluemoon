@@ -92,7 +92,7 @@ ssh robin@192.168.56.102
 
 sudo -l
 
-![Sudo](images/sudo.png)
+![Sudo](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/234f8ef23ec188102d8e926b482b15e26fae5312/bluemoon%208.png)
 
 cat user1.txt
 
