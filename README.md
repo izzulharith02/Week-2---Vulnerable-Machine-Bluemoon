@@ -80,21 +80,17 @@ robin : k4rv3ndh4nh4ck3r
 
 ---
 
-## 🖥️ SSH Access
+## 🖥️ SSH Access & Privilege Check
 
 ssh robin@192.168.56.102
 
 ![SSH](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/2a27a26437bb1be8c232c731e6ba4698f43aeccf/bluemoon%207.png)
 
----
-
-## 🧍 Privilege Check
-
-sudo -u
+sudo -l
 
 ![Sudo](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/234f8ef23ec188102d8e926b482b15e26fae5312/bluemoon%208.png)
 
-cat user2.txt
+cat user1.txt
 
 ![User1](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/cc37adb95c0a0c71ad9a9001cd9ad91f4c80e75a/bluemoon%208-1.png)
 
