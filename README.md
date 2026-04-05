@@ -37,7 +37,7 @@ Result:
 Open:
 http://192.168.56.102
 
-![Homepage](images/web-home.png)
+![Homepage](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/cabacafa4561242673376445e330ce750d44bc98/bluemoon%20page.png)
 
 Hidden directory:
  /hidden_text
