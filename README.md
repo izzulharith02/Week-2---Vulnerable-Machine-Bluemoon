@@ -15,7 +15,7 @@
 ### Network Discovery
 netdiscover -r 192.168.56.0/24
 
-![Network Discovery](images/netdiscover.png](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/330dab1d48a99b9b47d026f1a99e26356b777db6/bluemoon%201.png)
+![Network Discovery](images/netdiscover.png)
 
 ---
 
