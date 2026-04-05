@@ -1,4 +1,4 @@
-# Week-2---Vulnerable-Machine-Bluemoon
+# 🔐 BlueMoon 2021 – VulnHub Walkthrough
 
 ## 📌 Overview
 - Machine Name: BlueMoon-2021  
@@ -15,7 +15,7 @@
 ### Network Discovery
 netdiscover -r 192.168.56.0/24
 
-![Network Discovery](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/73e361372ff74e3e1f8a5996ed1ff67ac86c0f51/bluemoon%201.png)
+![Network Discovery](images/netdiscover.png)
 
 ---
 
@@ -29,7 +29,7 @@ Result:
 - SSH (22)
 - HTTP (80)
 
-![Nmap]([images/nmap.png](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/a8531eabae657eb7da0f8f293d5ede320bb8c3e0/bluemoon%201-1.png)
+![Nmap](images/nmap.png)
 
 ---
 
