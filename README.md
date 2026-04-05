@@ -58,7 +58,7 @@ gobuster dir -u http://192.168.56.102 -w /usr/share/wordlists/dirb/common.txt
 
 ftp userftp@192.168.56.102
 
-![FTP](images/ftp.png)
+![FTP](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/34a5399b479092cfff5b75ae35b21a570cfb591c/bluemoon%204.png)
 
 Files:
 - information.txt
