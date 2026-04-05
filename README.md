@@ -1,7 +1,5 @@
 # Week-2---Vulnerable-Machine-Bluemoon
 
-# 🔐 BlueMoon 2021 – VulnHub Walkthrough
-
 ## 📌 Overview
 - Machine Name: BlueMoon-2021  
 - Difficulty: Easy  
@@ -17,7 +15,7 @@
 ### Network Discovery
 netdiscover -r 192.168.56.0/24
 
-![Network Discovery](images/netdiscover.png)
+![Network Discovery](bluemoon1.png)
 
 ---
 
