@@ -45,7 +45,7 @@ Hidden directory:
 ![Hidden](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/8060cc2e6f19ac7679b6802eeaa58837b3e6f726/bluemoon%20maintenance.png)
 
 QR Code:
-![QR](images/qr.png)
+![QR](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/5a86c54e1491ca5c2b6dbadb037d354cac2416f9/bluemoon%20qr.png)
 
 ---
 
