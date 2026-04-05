@@ -90,13 +90,13 @@ ssh robin@192.168.56.102
 
 ## 🧍 Privilege Check
 
-sudo -l
+sudo -u
 
 ![Sudo](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/234f8ef23ec188102d8e926b482b15e26fae5312/bluemoon%208.png)
 
-cat user1.txt
+cat user2.txt
 
-![User1](images/user1.png)
+![User1](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/cc37adb95c0a0c71ad9a9001cd9ad91f4c80e75a/bluemoon%208-1.png)
 
 ---
 
