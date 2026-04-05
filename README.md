@@ -64,9 +64,8 @@ Files:
 - information.txt
 - p_lists.txt
 
-![Files](images/ftp-files.png)
+![Files&Plists](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/0ea28f37be41ad58a2eeb0a36d2aa5e151d9bf7e/bluemoon%205.png)
 
-![Wordlist](images/password-list.png)
 
 ---
 
