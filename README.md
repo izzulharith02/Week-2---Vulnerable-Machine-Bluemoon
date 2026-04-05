@@ -48,7 +48,12 @@ QR Code:
 ![QR](https://github.com/izzulharith02/Week-2---Vulnerable-Machine-Bluemoon/blob/5a86c54e1491ca5c2b6dbadb037d354cac2416f9/bluemoon%20qr.png)
 
 ---
+### Directory Bruteforce (Gobuster)
+gobuster dir -u http://192.168.56.102 -w /usr/share/wordlists/dirb/common.txt
 
+![Gobuster](images/gobuster.png)
+
+---
 ## 📂 FTP Enumeration
 
 ftp userftp@192.168.56.102
